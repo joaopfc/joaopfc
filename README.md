@@ -7,7 +7,7 @@
 
 - ⚡ Fun facts: In my free time i like to watch series :movie_camera: and films, read books :books:, listen to a lot of music :guitar:,play video games :space_invader:, and currently study a lot :mortar_board:.
 
-- 📫 How to reach me **matheusfariadecarvalho@gmail.com**
+- 📫 How to reach me **joaopaulofariadecarvalho@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaopfc/)](https://www.linkedin.com/in/joaopfc/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaopfc" alt="joaopfc" /> </p>
