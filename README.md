@@ -19,8 +19,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopfc&show_icons=true" alt="joaopfc"/> 
 </p>
-Viewport
-Window
-×
-×
-×
