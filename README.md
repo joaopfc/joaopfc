@@ -3,8 +3,6 @@
 
 - 🔭 I am currently looking for an opportunity in the area.
 
-- 💬 Ask me about **JavaScript, HTML, CSS**
-
 - ⚡ Fun facts: In my free time i like to watch series :movie_camera: and films, read books :books:, listen to a lot of music :guitar:,play video games :space_invader:, and currently study a lot :mortar_board:.
 
 - 📫 How to reach me **joaopaulofariadecarvalho@gmail.com**
